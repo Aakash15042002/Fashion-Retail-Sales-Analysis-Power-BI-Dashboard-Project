@@ -1,3 +1,4 @@
+# PowerBi_dashboard_project
 🛍️ Fashion Retail Sales Analysis — Power BI Dashboard
 Project Overview
 This repository features a comprehensive Power BI dashboard designed to provide actionable insights into the sales performance of a fashion retail business. The dashboard visualizes key metrics, identifies sales trends, highlights top-performing products, and pinpoints peak sales periods, empowering stakeholders to make data-driven decisions to optimize inventory, marketing, and operational strategies.
