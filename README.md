@@ -54,6 +54,5 @@ Power BI Desktop: The primary tool for data modeling, transformation, and creati
 Microsoft Excel / CSV: Likely used for initial data storage or preprocessing.
 DAX (Data Analysis Expressions): For creating calculated columns and measures to derive deeper insights (e.g., total purchase amount, percentages for donut charts).
 This is a powerBi end to end project
-Example:![Dashboard Preview](https://drive.google.com/file/d/1xVBgBAzI7nwUwR32fnW_HFmTVxnLzNZl/view?usp=sharing)
-Yes! 
-  i did project:)
+Example:![Dashboard Preview]([https://drive.google.com/file/d/1xVBgBAzI7nwUwR32fnW_HFmTVxnLzNZl/view?usp=sharing](https://github.com/Aakash15042002/fashion-retail/blob/main/Fashion%20Retail%20Sales%20power%20bi%20chart.png))
+
